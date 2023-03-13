@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application RevitAddin.MultVersion</Name>
+    <Assembly>RevitAddin.MultVersion.dll</Assembly>
+    <FullClassName>RevitAddin.MultVersion.App</FullClassName>
+    <ClientId>0a633dbc-378d-4b70-be29-12cbab71a55e</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
